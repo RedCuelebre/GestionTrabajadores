@@ -9,7 +9,7 @@
         }
     },
     "description": "NativeScript Application",
-    "license": "SEE LICENSE IN <your-license-filename>",
+    "license": "SEE LICENSE IN GPLv3",
     "repository": "<fill-your-repository-here>",
     "dependencies": {
         "@angular/animations": "~6.1.0",
